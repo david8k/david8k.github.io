@@ -1,0 +1,19 @@
+.title{
+  color: #003893;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.subtitle{
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #0500a5;
+}
+
+.subsubtitle{
+  font-size: 1.2em !important;
+}
+
+.important{
+  color: #7f0000;
+}
